@@ -1,0 +1,8 @@
+<html>
+<head>
+<title><Registration successful</title>
+</head>
+<body>
+<h3>Registered Successfully..!!</h3>
+</body>
+</html>   
